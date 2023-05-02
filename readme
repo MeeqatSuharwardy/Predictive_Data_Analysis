@@ -1,0 +1,30 @@
+Project Name: Predictive Data Analysis
+Introduction
+This project aims to perform exploratory data analysis (EDA) and apply machine learning (ML) and deep learning (DL) algorithms on a dataset. The dataset used in this project is 'data.csv' which contains information about various attributes of some objects.
+
+Requirements
+To run this project, you need to have the following software and libraries installed in your system:
+
+Python (version 3.6 or higher)
+Jupyter Notebook (to run the project)
+Pandas (to work with data)
+Matplotlib (to visualize data)
+Scikit-learn (to apply machine learning algorithms)
+TensorFlow (to apply deep learning algorithms)
+Files
+The project contains the following files:
+
+data.csv: The original dataset
+data_clean.csv: The cleaned dataset after performing EDA using PCA algorithm
+Eda_Analysis.ipynb: Jupyter Notebook containing the code for performing EDA
+ML_Method.ipynb: Jupyter Notebook containing the code for applying machine learning algorithms
+DL_Method.ipynb: Jupyter Notebook containing the code for applying deep learning algorithms
+Instructions
+To perform EDA, run the 'Eda_Analysis.ipynb' file. This notebook contains the code for loading the dataset, cleaning the data using PCA algorithm, visualizing the data, and performing various statistical analyses.
+
+To apply machine learning algorithms, run the 'ML_Method.ipynb' file. This notebook contains the code for loading the cleaned dataset, splitting the data into training and testing sets, applying various machine learning algorithms, and evaluating the performance of the models.
+
+To apply deep learning algorithms, run the 'DL_Method.ipynb' file. This notebook contains the code for loading the cleaned dataset, splitting the data into training and testing sets, applying various deep learning algorithms, and evaluating the performance of the models.
+
+Conclusion
+This project demonstrates how to perform EDA and apply machine learning and deep learning algorithms on a dataset. By following the instructions mentioned above, you can run the notebooks and reproduce the results.
